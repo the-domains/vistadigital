@@ -10,7 +10,12 @@ color:
     - '#624F51'
     - '#E9BCB6'
     - '#332D2D'
+opengraph:
+  type: 'https://www.facebook.com/villadigitalaprendiendo/'
 layout_spectrum: 0.2907046349719167
+author:
+  name: Alvaro Villalobos
+  email: alvill04@hotmail.com
 name: Vistadigital
 navigation:
   - name: Consultor
