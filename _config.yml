@@ -6,9 +6,9 @@ color:
   saturation: 0.9771871995180845
   rhythmicContrast: 0.5408572887536138
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#A78081'
+    - '#624F51'
+    - '#E9BCB6'
+    - '#332D2D'
 name: Vistadigital
