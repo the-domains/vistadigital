@@ -12,5 +12,9 @@ color:
     - '#332D2D'
 layout_spectrum: 0.2907046349719167
 name: Vistadigital
+navigation:
+  - name: Consultor
+    url: 'https://www.facebook.com/villadigitalaprendiendo/'
+    type: external
 title: Pensando en personas
 description: Gente
