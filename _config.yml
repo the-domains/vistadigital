@@ -1,0 +1,14 @@
+layout_spectrum: 0.2907046349719167
+typography_spectrum: 0.4058430902659893
+color:
+  brandStrength: 0.33934462489560246
+  lightness: 0.41564473137259483
+  saturation: 0.9771871995180845
+  rhythmicContrast: 0.5408572887536138
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Vistadigital
