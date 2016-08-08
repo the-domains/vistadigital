@@ -1,4 +1,3 @@
-layout_spectrum: 0.2907046349719167
 typography_spectrum: 0.4058430902659893
 color:
   brandStrength: 0.33934462489560246
@@ -11,5 +10,7 @@ color:
     - '#624F51'
     - '#E9BCB6'
     - '#332D2D'
+layout_spectrum: 0.2907046349719167
 name: Vistadigital
+title: Pensando en personas
 description: Gente
